@@ -1,0 +1,199 @@
+/* exercício 1
+centraliza os quadrados na tela
+.container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+estilos dos quadrados
+  .square {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+  }
+  
+  #square1 {
+    background-color: red;
+  }
+  
+  #square2 {
+    background-color: blue;
+  }
+  
+  #square3 {
+    background-color: orange;
+  }
+
+
+exercício 2
+estiliza o container e centraliza o conteúdo
+.counter-container {
+  text-align: center;
+  margin-top: 20vh;
+}
+
+estilo para o contador
+#counter {
+  font-size: 3em;
+  color: black;
+  margin-bottom: 20px;
+}
+
+estilos dos botões
+button {
+  font-size: 1em;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#countButton {
+  color: black;
+}
+
+#resetButton {
+  color: black;
+}
+
+
+exercício 3
+centraliza o conteúdo
+.container {
+  text-align: center;
+  margin-top: 20vh;
+}
+
+estilos do botão
+button {
+  font-size: 1em;
+  padding: 10px 20px;
+  cursor: pointer;
+}  
+
+
+exercício 4
+centraliza o conteúdo
+.container {
+  text-align: center;
+  margin-top: 20vh;
+}
+
+estilos para o texto
+#text {
+  font-size: 1.5em;
+  color: black;
+  margin-bottom: 20px;
+}
+
+estilos para o botão
+button {
+  font-size: 1em;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+
+exercício 5
+centraliza o conteúdo
+.container {
+  text-align: center;
+  margin-top: 20vh;
+}
+
+estilo para a mensagem
+#message {
+  font-size: 1.5em;
+  color: black;
+}
+
+
+exercício 6
+centraliza o conteúdo
+.container {
+  text-align: center;
+  margin-top: 20vh;
+}
+
+estilo do botão
+button {
+  font-size: 1em;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+estilo do resultado
+#result {
+  margin-top: 20px;
+}
+
+#candidateName {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #333;
+}
+
+#candidatePhoto {
+  max-width: 200px;
+  margin-top: 10px;
+}
+
+
+desafio
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: white;
+}
+
+.container {
+  text-align: center;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+}
+
+h1 {
+  margin-bottom: 15px;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 20px 0;
+  padding: 0;
+}
+
+li {
+  background-color: white;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: blue;
+} */
